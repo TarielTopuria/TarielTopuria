@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarielTopuria ❤️
-- 💻 Dedicated Software Engineer (Full stack developer) specialized in .NET and Java, with a strong foundation in test automation engineering.
-- 💡 My experience includes: C#, Java, JavaScript, Typescript, NET Core, HTML, CSS, React.JS, Angular, MSSQL, MongoDB, PostgreSQL, REST, SOAP APIs, Monolithic, Microservices, CQRS and Clean architecture, Docker, Kubernetes, RabbitMQ, GIT, etc...
+- 💻 Dedicated Software Engineer (Full stack developer) specialized in .NET/C#, JavaScript, TypeScript and Java, with a strong foundation in test automation engineering.
+- 💡 My experience includes: C#, Java, JavaScript, Typescript, NET Core, HTML, CSS, SCSS, React.JS, Angular, MSSQL, MongoDB, PostgreSQL, REST, SOAP APIs, Microservices, CQRS, DDD and Clean architecture, Docker, Kubernetes, RabbitMQ, GIT, etc...
 - 🪲 As a former test automation engineer, I created robust automated test scripts using Nunit, Xunit, Junit, and TestNG.
 - 👀 I'm skilled in Selenium, Selenide, RestAssured, Swagger, Postman, and Insomnia for comprehensive testing.
 - 🎓 I’m also ISTQB Certified Software Quality Assurance (SQA) Automation Engineer.
