@@ -7,9 +7,8 @@
 - 🚀 My main goal is to gain more experience, so I’m looking to collaborate with a company that will assist my development.
 - 📫 You can find me on <a href="https://www.linkedin.com/in/tato-topuria-495892170/" target="_blank">Linkedin<a>, <a href="https://github.com/TarielTopuria" target="_blank">GitHub</a>, and <a href="https://www.facebook.com/profile.php?id=100014029364460" target="_blank">Facebook</a>
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TarielTopuria&theme=transparent)](https://github.com/TarielTopuria/github-readme-activity-graph)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarielTopuria&show_icons=true&theme=transparent)](https://github.com/TarielTopuria/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarielTopuria&show_icons=true&theme=transparent)](https://github.com/TarielTopuria/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=TarielTopuria&theme=transparent)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TarielTopuria&theme=transparent)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TarielTopuria&theme=transparent)](https://github.com/TarielTopuria/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarielTopuria&layout=compact&theme=transparent)
